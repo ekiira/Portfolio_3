@@ -1,0 +1,97 @@
+body{
+    background-color: #778492;
+}
+header .icons a{
+    font-size: 27px;
+    color:gray;
+}
+header img{
+    width:200px;
+    height:300px;
+}
+header{
+    background-color: white;
+    color:#778492;
+    border-top: 10px solid #434343;
+}
+a:not([href]):not([tabindex]) {
+    color: white;
+}
+header h3{
+    font-size: 3rem;
+}
+header h4 {
+   font-weight: 200; 
+}
+h4{
+    font-weight: 800;
+}
+a {
+    color:#3dd944;
+}
+.stars .green{
+    color:#45c44a;
+}
+.stars .lighty{
+    color:#3dd944;
+}
+.stars .lighter{
+    color:#5cdb61
+}
+a:hover{
+    color:green;
+}
+p .gray{
+    color:#778492;
+    font-weight: 700;
+}
+p .light{
+     color:gray;
+     font-weight: 200;
+}
+.alpha{
+    color:#778492;
+    font-weight: 700;
+}
+.alpha .beta{
+    color:gray;
+    font-weight: 200;
+}
+.subsection8 p{
+    font-weight: 700;
+}
+p .uni{
+    color: gray;
+    font-size: 14px;
+    font-weight: 500;
+}
+p .date{
+    font-weight: 200;
+    font-size: 14px;
+}
+p .lan{
+    color:gray;
+    font-size: 16px;
+    font-weight: 300;
+}
+p .whi{
+    color:#778492;
+}
+.subsection10 p {
+    color: gray;
+}
+.subsection11 .send {
+     color:#778492;
+}
+footer p{
+    color:gray;
+}
+footer a{
+    color: white;
+}
+footer a:hover{
+    color:white;
+}
+footer i{
+    color: #f29c3f;
+}
